@@ -1,6 +1,7 @@
 using System;
 using System.Text;
 
+// Fonte: https://social.msdn.microsoft.com/Forums/pt-BR/ca33769b-0d8c-4296-b17d-fa14ed32d3a3/como-calcular-o-crc-do-pix?forum=vscsharppt
 public class Crc16 {
 
     /*
